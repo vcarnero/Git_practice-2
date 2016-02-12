@@ -1,3 +1,4 @@
 trying this again
 lets see if I get it
  I used the cat command to see what was in my file and two greater than signs to apphend this file
+I didnt realize how messy my file path was in github and that it didnt match the directory in my computer, now I cleaned it up and used the command rm to sort things out
